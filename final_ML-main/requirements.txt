@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+textblob
+sentence-transformers
+transformers
+torch
+xgboost
+scipy
